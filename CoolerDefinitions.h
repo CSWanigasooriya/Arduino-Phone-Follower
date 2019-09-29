@@ -45,7 +45,7 @@ char auth[] = "jrpNfqeX63v4zFKHu6Iioia26AndvOeC";
 #define SERVO_LID_OPEN 20
 #define SERVO_LID_CLOSE 165
 
-// Definitions (don't edit these)
+// Definitions and Data Structures(don't edit these)
 struct GeoLoc {
   float lat;
   float lon;
