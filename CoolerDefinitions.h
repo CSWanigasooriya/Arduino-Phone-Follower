@@ -1,5 +1,5 @@
 // Blynk Auth
-char auth[] = "jrpNfqeX63v4zFKHu6Iioia26AndvOeC";
+char auth[] = "";//Please enter yout Blynk Authentication Token
 
 // Pin variables
 #define SERVO_PIN 3
